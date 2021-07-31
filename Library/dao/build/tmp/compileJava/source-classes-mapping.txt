@@ -1,0 +1,18 @@
+com/library/dao/AbstractDao.java
+ com.library.dao.AbstractDao
+com/library/dao/BookDao.java
+ com.library.dao.BookDao
+com/library/dao/UserDao.java
+ com.library.dao.UserDao
+com/library/dao/AcceptanceDao.java
+ com.library.dao.AcceptanceDao
+com/library/dao/WorkerDao.java
+ com.library.dao.WorkerDao
+com/library/dao/IssuanceDao.java
+ com.library.dao.IssuanceDao
+com/library/dao/RoleDao.java
+ com.library.dao.RoleDao
+com/library/dao/configuration/JpaConfiguration.java
+ com.library.dao.configuration.JpaConfiguration
+com/library/dao/ReaderDao.java
+ com.library.dao.ReaderDao

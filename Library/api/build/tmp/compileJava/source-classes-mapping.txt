@@ -1,0 +1,32 @@
+com/hotel/api/dao/IIssuanceDao.java
+ com.hotel.api.dao.IIssuanceDao
+com/hotel/api/service/IAcceptanceService.java
+ com.hotel.api.service.IAcceptanceService
+com/hotel/api/service/IReaderService.java
+ com.hotel.api.service.IReaderService
+com/hotel/api/dao/IAcceptanceDao.java
+ com.hotel.api.dao.IAcceptanceDao
+com/hotel/api/dao/IRoleDao.java
+ com.hotel.api.dao.IRoleDao
+com/hotel/api/service/IUserService.java
+ com.hotel.api.service.IUserService
+com/hotel/exceptions/DaoException.java
+ com.hotel.exceptions.DaoException
+com/hotel/api/dao/IReaderDao.java
+ com.hotel.api.dao.IReaderDao
+com/hotel/api/service/IWorkerService.java
+ com.hotel.api.service.IWorkerService
+com/hotel/api/dao/IWorkerDao.java
+ com.hotel.api.dao.IWorkerDao
+com/hotel/api/dao/IBookDao.java
+ com.hotel.api.dao.IBookDao
+com/hotel/api/service/IBookService.java
+ com.hotel.api.service.IBookService
+com/hotel/api/dao/IUserDao.java
+ com.hotel.api.dao.IUserDao
+com/hotel/exceptions/ServiceException.java
+ com.hotel.exceptions.ServiceException
+com/hotel/api/dao/GenericDao.java
+ com.hotel.api.dao.GenericDao
+com/hotel/api/service/IIssuanceService.java
+ com.hotel.api.service.IIssuanceService

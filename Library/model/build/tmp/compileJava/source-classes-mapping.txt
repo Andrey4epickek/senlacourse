@@ -1,0 +1,32 @@
+com/library/model/Status.java
+ com.library.model.Status
+com/library/model/User.java
+ com.library.model.User
+com/library/model/Worker.java
+ com.library.model.Worker
+com/library/model/Issuance.java
+ com.library.model.Issuance
+com/library/model/Acceptance.java
+ com.library.model.Acceptance
+com/library/model/dto/ReaderDto.java
+ com.library.model.dto.ReaderDto
+com/library/model/Role.java
+ com.library.model.Role
+com/library/model/dto/BookDto.java
+ com.library.model.dto.BookDto
+com/library/model/Book.java
+ com.library.model.Book
+com/library/model/Reader.java
+ com.library.model.Reader
+com/library/model/dto/AuthenticationRequestDto.java
+ com.library.model.dto.AuthenticationRequestDto
+com/library/model/dto/WorkerDto.java
+ com.library.model.dto.WorkerDto
+com/library/model/dto/AcceptanceDto.java
+ com.library.model.dto.AcceptanceDto
+com/library/model/AEntity.java
+ com.library.model.AEntity
+com/library/model/dto/AdminUserDto.java
+ com.library.model.dto.AdminUserDto
+com/library/model/dto/IssuanceDto.java
+ com.library.model.dto.IssuanceDto

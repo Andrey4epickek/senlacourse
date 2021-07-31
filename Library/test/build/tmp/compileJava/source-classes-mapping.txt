@@ -1,0 +1,12 @@
+com/library/test/ReaderServiceTest.java
+ com.library.test.ReaderServiceTest
+com/library/test/BookServiceTest.java
+ com.library.test.BookServiceTest
+com/library/test/configuration/TestConfig.java
+ com.library.test.configuration.TestConfig
+com/library/test/WorkerServiceTest.java
+ com.library.test.WorkerServiceTest
+com/library/test/IssuanceServiceTest.java
+ com.library.test.IssuanceServiceTest
+com/library/test/AcceptanceServiceTest.java
+ com.library.test.AcceptanceServiceTest

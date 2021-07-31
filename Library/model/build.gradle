@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+dependencies {
+    compile group:'javax.persistence',name:'javax.persistence-api',version:'2.2'
+    compile group: 'org.springframework.security', name: 'spring-security-core', version: '5.4.6'
+}
